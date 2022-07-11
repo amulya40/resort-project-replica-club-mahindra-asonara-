@@ -1,0 +1,40 @@
+.about, .daily, .experiance, .Amenties{
+    margin: 30px;
+    padding: 20px;
+}
+.content{
+    font-size: 20px;
+    margin-top: 20px;
+}
+nav ul{
+   
+   padding-top: 20px;
+}
+.title-container{
+    color: white;
+}
+.title{
+    font-size: 36px;
+
+}
+
+.flex{
+    display: flex;
+}
+
+#hero{
+    width: 100%;
+    height: 50vh;
+    background-image: url('https://wallpaperaccess.com/full/1871775.jpg');
+}
+.paddind-table{
+    padding-left: 30px;
+}
+.thumbnail-desc{
+    display:flex;
+    align-items: center;
+}
+.thumbnail-container{
+    height: 40vh;
+    width: 40vh;
+}

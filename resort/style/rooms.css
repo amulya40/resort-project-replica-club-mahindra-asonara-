@@ -1,0 +1,16 @@
+header{
+    background-color: black;
+    height: 100px;
+    padding-bottom: 50px;
+      }
+
+.rooms{
+  margin: 20px;
+}
+.image-container{
+  display: flex;
+  width: 400px;
+  height: 400px;
+  background-repeat:no-repeat;
+  margin: 20px;
+}
